@@ -1,8 +1,7 @@
-# ⚡ Application mobile — PowerHome
-
+# ⚡ Application mobile — Maokai
 ## 📖 Présentation
 
-**PowerHome** est une **application mobile Android** développée en **2025** dans le cadre d’un projet collectif.  
+**Maokai** est une **application mobile Android** développée en **2025** dans le cadre d’un projet collectif.  
 Elle permet aux **habitants d’une même résidence** de **surveiller et gérer leur consommation énergétique** afin de **réduire les pics d’utilisation** et d’**optimiser la répartition de l’électricité** au sein du bâtiment.  
 
 L’application encourage la **responsabilisation énergétique collective** en permettant aux résidents de **réserver des créneaux horaires** pour leurs activités énergivores. Ainsi, chacun peut anticiper les périodes de forte consommation et **adapter son comportement pour stabiliser la demande**.  
@@ -24,15 +23,12 @@ Ce système vise à **éviter les surcharges électriques**, **limiter l’impac
 
 ## 🌿 Écoconception & Accessibilité
 
-Le projet **PowerHome** s’inscrit dans une démarche d’**écoconception logicielle** et de **développement inclusif**.  
+Le projet **Maokai** s’inscrit dans une démarche d’**écoconception logicielle** et de **développement inclusif**.  
 L’application met l’accent sur la sobriété énergétique et la lisibilité, tout en intégrant des critères d’accessibilité :  
 
 - 🎨 **Texte à contraste élevé** pour une meilleure visibilité.  
-- 🔎 **Interface adaptée aux malvoyants** (tailles de texte et contraste ajustables).  
-- 🌗 **Thème clair/sombre** pour s’adapter à l’environnement lumineux de l’utilisateur.  
-- ♿ **Compatibilité avec les lecteurs d’écran** et navigation simplifiée.  
-
-Ces choix permettent de rendre PowerHome **économe, inclusive et durable**.
+- 🔎 **Interface adaptée aux malvoyants** (tailles de texte et contraste ajustables).
+Ces choix permettent de rendre Maokai **économe, inclusive et durable**.
 
 ---
 
@@ -42,7 +38,7 @@ Ces choix permettent de rendre PowerHome **économe, inclusive et durable**.
 - **Android Studio** — environnement de développement  
 - **Gradle** — gestionnaire de dépendances et de build  
 - **XML** — définition des interfaces graphiques  
-- **Firebase / SQLite** — stockage des données (consommation, créneaux, utilisateurs)  
+- **MySQL / Uwamp** — stockage des données (consommation, créneaux, utilisateurs)  
 
 ---
 
@@ -79,7 +75,7 @@ Appli_eco_PowerHome/
 ## 🏫 Contexte
 
 Projet réalisé en **2025**, dans le cadre d’un travail en équipe visant à explorer la **gestion collective de la consommation énergétique**.  
-PowerHome illustre la capacité à concevoir une application mobile **intelligente**, **collaborative** et **responsable**, alliant technologie, écologie et accessibilité numérique.
+Maokai illustre la capacité à concevoir une application mobile **intelligente**, **collaborative** et **responsable**, alliant technologie, écologie et accessibilité numérique.
 
 ---
 
